@@ -14,5 +14,5 @@ class Dog
   
 end
 
-fido = Dog.new("fido")
-p fido.name 
+fido = Dog.new
+fido.name = fido 
