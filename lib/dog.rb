@@ -12,8 +12,7 @@ class Dog
     "#{name}"
   end 
   
-  
-  
-  
-  
-end 
+end
+
+fido = Dog.new 
+fido.name = 
