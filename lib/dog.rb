@@ -15,4 +15,4 @@ class Dog
 end
 
 fido = Dog.new("fido")
-puts fido.name 
+p fido.name 
